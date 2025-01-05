@@ -18,66 +18,9 @@ dastere.
 NEO
 No!
 What goinst of dreabland in dres it
-oon winds e144
-THe know, this bile geand turs coped dighting
-dan oper gring i171 INT. Flicks
-witn himme, fullstidgeting a stroom thin't
-fitiels to
-the os...
-TRINITY
-Neo poter. I in wat's nodes end now.
-TROMINIT98 CUNG and spang hat en
-the ustarensions.
-TANK
-Morpheus frmase in wor't know, figent the find, sunded.
-NEO
-Theing. CONTIINUED: (27.
-MORPHEUNT 47
-AGENT SPEUS 56
-I!
-MORPHEUS
-Dabs. Breankes, the?
-Tha. MORPHEUM
-Neo, and Tat ourd, han't stairn the beet can dood und you
-doo
-turne deathers, MarreV.OM I've warnay
-booing to eleverity beht oniting
-whe ed of phenif coltes reckniog.
-(CONTINUED) 57 -MORPHEUS
-Whanks a the reame, his.
-Neo sout and to intay.
-151 INT. ROONUED, 12- BROING and the sitn exegemmagrunget you dor.
-Trinity wha
-gleale, int entere oses now. Witilly.
-He shis insilowt. I's gut movers as end and exetians the froginss isto his gaing a dirnets the roud op ilins in that or
-aers hais his-s him a looRght I
-to on.
-TRINITY
-What we t seaves.
-MORPH
-Ather,
-casn hus of thack?
-TRINITY (CONTITEDJON -- D: 10ACK
-Thany tall and?
-Neo'm stiond oven coard then.
-Gent wond to he dores frodes pac asked
-oor it it whering sidar watteling, in thre
-feed and the hem.
-TPINNITY
-The rusll. I Morpheused. Sat
-brin sud, the rimigh, and there blie
-snatceall are.
-(CONTINUED: 56.
-(CONTINUED: 130
-29'. CONTINUED: (2) 931.
-The now. It gannive do scexall seht. Don't
-you bean and the facap colrondeed, by an inds an.
-Thinis is the grinet of the lationto
-ther's thaing in tullectly sap to?
-MONUED) 124 GHES MATRINFITY- (V.)
-Morpide? Neo.
-What hand of tare betaff ch saind. It
-chan to on a lave gribs in buut I dowpentll, ching,
-as wall, ""
+oon winds e144""
 
 We can see that the model has a knowledge of the characters and the setting of the movie. It generates text that is similar to the script of the movie. The model is not perfect and the text generated is not coherent. But it is a good start and with more training and resources, we can get better results.
+
+## Improvements
+To improve this model without using extra resources (model depth), we should employ a tokenizer to use within the embedding space, rather than using chars only. Also exploring different model architectures, different hyperparameters and more data can all help to improve on my next GPT model.
